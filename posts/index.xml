@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chris&#39; Blog</title>
-    <link>https://chris1125.github.io/</link>
-    <description>Recent content on Chris&#39; Blog</description>
+    <title>Posts on Chris&#39; Blog</title>
+    <link>https://chris1125.github.io/posts/</link>
+    <description>Recent content in Posts on Chris&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 30 Nov 2020 10:22:19 +0800</lastBuildDate><atom:link href="https://chris1125.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Nov 2020 10:22:19 +0800</lastBuildDate><atom:link href="https://chris1125.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用 Hugo &#43; GitHub Pages 生成静态博客</title>
       <link>https://chris1125.github.io/posts/%E4%BD%BF%E7%94%A8-hugo-&#43;-github-pages-%E7%94%9F%E6%88%90%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</link>
